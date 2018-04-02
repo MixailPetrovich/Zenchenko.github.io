@@ -1,0 +1,2 @@
+[2018-03-23 16:35:12] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-03-23 16:35:12] layer ":: title-deco-line.ipg": Unsupported extension: ipg
